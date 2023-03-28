@@ -13,4 +13,4 @@ I used the decision tree classifier to build our model. The model was trained on
 # Training and Predicting the Model
 After preprocessing the training and test datasets, we trained our decision tree model using the DecisionTreeClassifier() function from the sklearn.tree module. We then used this trained model to predict the survival outcome of passengers in the test dataset using the predict() method.
 
-feel free to contibute.
+feel free to contibute
